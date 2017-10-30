@@ -10,4 +10,5 @@ if len(original) > 0 and original.isalpha():
   print original
 else:
     print 'empty'
+    print "I love you like the sea loves the ocean"
     
