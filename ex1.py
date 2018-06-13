@@ -14,4 +14,3 @@ else:
  
 character = raw_input('Enter another word:')
 
-if 
